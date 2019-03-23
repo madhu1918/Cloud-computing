@@ -1,0 +1,15 @@
+[{
+	"title": "Orientation on Cloud Computing",
+	"activityType":"quiz",
+	"quizDescription" : [
+		{
+			"text" :"Summarize the orientation lecture."
+		}
+	],
+	"questions": [
+		{
+			"questionType" : "summarize",
+			"questionText": "Summarize the orientation lecture."
+		}
+	]
+}]

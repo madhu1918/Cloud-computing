@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on Motivation Interview - University of Illinois at Urbana-Champaign - Coursera",
+			"activityType":"video",
+			"videoURL":"1.1.2 motivation-interview.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Motivation Interview - University of Illinois at Urbana-Champaign - Coursera"
+			}
+		
+		]
+	}
+	]

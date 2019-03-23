@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on Big Data",
+			"activityType":"video",
+			"videoURL":"1.1.5 big-data.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Big Data"
+			}
+		
+		]
+	}
+	]

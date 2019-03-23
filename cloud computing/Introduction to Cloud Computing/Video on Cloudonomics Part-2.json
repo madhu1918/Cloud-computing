@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on Cloudonomics Part-2",
+			"activityType":"video",
+			"videoURL":"1.1.4 cloudonomics-part-2.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Cloudonomics Part-2"
+			}
+		
+		]
+	}
+	]

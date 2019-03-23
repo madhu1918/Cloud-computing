@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on  Infrastructure as a Service",
+			"activityType":"video",
+			"videoURL":"1.2.3 infrastructure-as-a-service.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Infrastructure as a Service"
+			}
+		
+		]
+	}
+	]

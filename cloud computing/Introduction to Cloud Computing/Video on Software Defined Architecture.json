@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on Software Defined Architecture",
+			"activityType":"video",
+			"videoURL":"1.2.1 software-defined-architecture.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Software Defined Architecture"
+			}
+		
+		]
+	}
+	]

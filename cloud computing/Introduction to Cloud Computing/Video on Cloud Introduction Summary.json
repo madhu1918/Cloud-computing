@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on Cloud Introduction Summary",
+			"activityType":"video",
+			"videoURL":"1.1.6 summary-to-cloud-introduction.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Cloud Introduction Summary"
+			}
+		
+		]
+	}
+	]
