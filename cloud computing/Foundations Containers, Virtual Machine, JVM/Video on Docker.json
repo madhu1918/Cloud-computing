@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on Docker",
+			"activityType":"video",
+			"videoURL":"2.3.1-docker.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Docker"
+			}
+		
+		]
+	}
+	]

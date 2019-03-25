@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on IaaS OpenStack",
+			"activityType":"video",
+			"videoURL":"2.4.1-iaas-openstack.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on IaaS OpenStack"
+			}
+		
+		]
+	}
+	]

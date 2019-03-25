@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on VServer 2.0",
+			"activityType":"video",
+			"videoURL":"2.2.3-vserver-2.0.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on VServer 2.0"
+			}
+		
+		]
+	}
+	]

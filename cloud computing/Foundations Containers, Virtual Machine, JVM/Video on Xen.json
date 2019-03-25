@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on Xen",
+			"activityType":"video",
+			"videoURL":"2.2.2-xen.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Xen"
+			}
+		
+		]
+	}
+	]

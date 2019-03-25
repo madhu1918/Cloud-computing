@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on Virtualizing the Network and Storage",
+			"activityType":"video",
+			"videoURL":"2.1.2-virtualizing-the-network-and-storage.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Virtualizing the Network and Storage"
+			}
+		
+		]
+	}
+	]

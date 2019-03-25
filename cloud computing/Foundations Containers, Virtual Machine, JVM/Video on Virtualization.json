@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on Virtualization",
+			"activityType":"video",
+			"videoURL":"2.1.1-virtualization.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Virtualization"
+			}
+		
+		]
+	}
+	]

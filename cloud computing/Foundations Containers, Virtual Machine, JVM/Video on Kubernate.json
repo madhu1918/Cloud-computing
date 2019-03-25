@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on Kubernate",
+			"activityType":"video",
+			"videoURL":"2.3.2-kubernates.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Kubernate"
+			}
+		
+		]
+	}
+	]

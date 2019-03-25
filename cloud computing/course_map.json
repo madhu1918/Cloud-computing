@@ -26,6 +26,34 @@
                 "This module begins with an orientation on Cloud Computing by the Mentor from 9:00 AM to 10:30 AM.<br><br> In this module, we will introduce the concept of cloud computing and the economical foundations that make cloud computing make sense. We then introduce some fundamental concepts including software defined architectures and cloud services. We end the module by introducing you to the low level cloud computing service offered, infrastructure as a service"
             ],
             "title": "Introduction to Cloud Computing"
+        },
+        {
+            "activities": [
+                "Video on Introduction",
+                "Video on Virtualization",
+                "Video on Virtualizing the Network and Storage",
+                "Video on OS Based Virtualization",
+                "Video on Xen",
+                "Video on VServer 2.0",
+                "Video on Solaris Zones",
+                "Video on OpenVZ",
+                "Video on  LXC Linux Containers",
+                "Video on Docker",
+                "Video on Kubernate",
+                "Video on JVM",
+                "Video on IaaS OpenStack",
+                "Video on IaaS Providers Amazon",
+                "Video on IaaS Providers Microsoft",
+                "Video on IaaS Providers Google",
+                "Video on Serverless Architecture",
+                "Assignment-1"
+
+            ],
+            "learningObjectives": [],
+            "overview": [
+                "Welcome to the second module! Here, we cover virtualization and containers with deeper focus, including lectures on Docker, JVM and Kubernates. We finish up day two by comparing the infrastructure as a service offering by the big three: Amazon, Google and Microsoft."
+            ],
+            "title": "Foundations Containers, Virtual Machine, JVM"
         }
     ]
 }

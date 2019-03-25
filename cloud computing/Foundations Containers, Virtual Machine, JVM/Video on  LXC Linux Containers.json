@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on  LXC Linux Containers",
+			"activityType":"video",
+			"videoURL":"2.2.6-lxc-linux-containers.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on  LXC Linux Containers"
+			}
+		
+		]
+	}
+	]
