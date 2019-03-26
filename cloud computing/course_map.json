@@ -54,6 +54,32 @@
                 "Welcome to the second module! Here, we cover virtualization and containers with deeper focus, including lectures on Docker, JVM and Kubernates. We finish up day two by comparing the infrastructure as a service offering by the big three: Amazon, Google and Microsoft."
             ],
             "title": "Foundations Containers, Virtual Machine, JVM"
+        },
+        {
+            "activities": [
+                "Video on Module 3 Introduction",
+                "Video on MAAS Part 1",
+                "Video on MAAS Part 2",
+                "Video on Juju",
+                "Video on PaaS Providers Google App Engine",
+                "Video on PaaS Providers Salesforce",
+                "Video on Web Services",
+                "Video on RPC Semantics",
+                "Video on RPC Implementation",
+                "Video on HTTP SOAP REST",
+                "Video on JSON",
+                "Video on Load Balancer Introduction",
+                "Video on Load Balancer Schemes",
+                "Video on Protocol Buffers and Thrift",
+                "Video on MBAAS",
+                "Assignment-1"
+
+            ],
+            "learningObjectives": [],
+            "overview": [
+                "Welcome to the third module, where we introduce Metal as a Service (provision real hardware in the cloud), Platform as a Service (provide a platform to run user code on) and Web Middleware as the glue technology that empowers cloud computing.Welcome to the third module, where we introduce Metal as a Service (provision real hardware in the cloud), Platform as a Service (provide a platform to run user code on) and Web Middleware as the glue technology that empowers cloud computing."
+            ],
+            "title": "MAAS, PAAS, Web Services"
         }
     ]
 }

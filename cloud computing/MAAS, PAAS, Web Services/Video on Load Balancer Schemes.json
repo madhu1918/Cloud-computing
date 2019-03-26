@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on Load Balancer Schemes",
+			"activityType":"video",
+			"videoURL":"3.3.7-load-balancer-schemes.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Load Balancer Schemes"
+			}
+		
+		]
+	}
+	]

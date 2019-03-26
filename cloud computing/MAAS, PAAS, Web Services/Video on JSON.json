@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on JSON",
+			"activityType":"video",
+			"videoURL":"3.3.5-json.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on JSON"
+			}
+		
+		]
+	}
+	]

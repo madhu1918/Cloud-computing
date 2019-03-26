@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on MAAS Part 1",
+			"activityType":"video",
+			"videoURL":"3.1.1-maas-part-1.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on MAAS Part 1"
+			}
+		
+		]
+	}
+	]

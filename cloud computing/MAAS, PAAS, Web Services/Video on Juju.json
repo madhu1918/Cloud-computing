@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on Juju",
+			"activityType":"video",
+			"videoURL":"3.1.3-juju.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Juju"
+			}
+		
+		]
+	}
+	]

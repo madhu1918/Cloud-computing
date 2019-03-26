@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on Web Services",
+			"activityType":"video",
+			"videoURL":"3.3.1-web-services.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Web Services"
+			}
+		
+		]
+	}
+	]

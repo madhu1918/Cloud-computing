@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on HTTP SOAP REST",
+			"activityType":"video",
+			"videoURL":"3.3.4-http-soap-rest.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on HTTP SOAP REST"
+			}
+		
+		]
+	}
+	]

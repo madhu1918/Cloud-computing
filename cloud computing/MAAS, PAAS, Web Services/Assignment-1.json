@@ -1,0 +1,13 @@
+[{
+	"title":"Summarize the Module",
+	"activityType":"assignment",
+	"questions":[
+		{
+		"questionType":"filesubmission",
+		"max_marks":10,
+		"graded": true,
+		"questionText":"Write a summary of your learning from this module."
+		}
+
+	]
+}]
