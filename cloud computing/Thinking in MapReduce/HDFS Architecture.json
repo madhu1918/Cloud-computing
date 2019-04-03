@@ -1,0 +1,13 @@
+[{
+	"title": "HDFS Architecture",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "Please go through following link for HDFS Architecture:<br><a href=\"https://hadoop.apache.org/docs/current1/hdfs_design.html#NameNode+and+DataNodes\">HDFS Architecture</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the HDFS Architecture"
+	}]
+}]

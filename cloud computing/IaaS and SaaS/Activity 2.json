@@ -1,0 +1,13 @@
+[{
+	"title":"Activity 2",
+	"activityType":"assignment",
+	"questions":[
+		{
+		"questionType":"fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText":"Create software of your interest and install on a cloud machine. (Example: Calculator) (Saas)<br>Ask your mentors to get more information on this activity.<br><br>Submit a screencast of running the software on the cloud machine."
+		}
+
+	]
+}]

@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on SWIFT",
+			"activityType":"video",
+			"videoURL":"4.2.1-swift.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on SWIFT"
+			}
+		
+		]
+	}
+	]

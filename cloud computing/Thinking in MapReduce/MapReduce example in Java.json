@@ -1,0 +1,16 @@
+[{
+  "title": "MapReduce example in Java",
+  "activityType": "quiz",
+  "quizDescription": [
+    {
+      "text": "Please go through the link for MapReduce example in Java:<br><a href=\"https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html\">https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html</a> "
+    },
+     {
+      "text": "Please go through the link for MapReduce example in Python::<br><a href=\"http://www.quuxlabs.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/\">http://www.quuxlabs.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/</a> "
+    }
+  ],
+  "questions": [{
+    "questionType": "summarize",
+    "questionText": "Summarize the MapReduce example in Java"
+  }]
+}]

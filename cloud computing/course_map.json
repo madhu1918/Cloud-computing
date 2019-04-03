@@ -80,6 +80,87 @@
                 "Welcome to the third module, where we introduce Metal as a Service (provision real hardware in the cloud), Platform as a Service (provide a platform to run user code on) and Web Middleware as the glue technology that empowers cloud computing.Welcome to the third module, where we introduce Metal as a Service (provision real hardware in the cloud), Platform as a Service (provide a platform to run user code on) and Web Middleware as the glue technology that empowers cloud computing."
             ],
             "title": "MAAS, PAAS, Web Services"
+        },
+        {
+            "activities": [
+                "Video on Module 4 Introduction",
+                "Video on Ceph",
+                "Video on HIVE",
+                "Video on TEZ",
+                "Video on SWIFT",
+                "Video on Amazon S3 BLOB Storage",
+                "Video on Amazon AWS EBS Storage",
+                "Video on AWS Glacier",
+                "Video on Amazon AWS Elastic File System",
+                "Video on Dropbox API",
+                "Assignment-1"
+
+            ],
+            "learningObjectives": [],
+            "overview": [
+                "Welcome to the fourth module of the cloud computing course! So far we have covered various methods of running certain computations on the cloud. Now it's time to focus on data storage in the clouds. In this module, we introduce big data and cloud file systems such as HDFS and Ceph, cloud object stores such has Openstack Swift or Amazon S3, virtualized block storage devices such as Amazon EBS and archival storage options like the Amazon Glacier. Finally, we conclude the module with introducing the DropBox cloud API that enables developers to quickly integrate cloud storage options in their applications."
+            ],
+            "title": "Storage Ceph, SWIFT, HDFS, NAAS, SAN, Zookeeper"
+        },
+         {
+            "activities": [
+                "Video on Hadoop",
+                "Installation of Hadoop",
+                "Assignment-1"
+
+            ],
+            "learningObjectives": [],
+            "overview": [
+                "<b>Big data</b> is a field that treats ways to analyze, systematically extract information from, or otherwise deal with data sets that are too large or complex to be dealt with by traditional data-processing application software. <br><br><b>Apache Hadoop</b> is a collection of open-source software utilities that facilitate using a network of many computers to solve problems involving massive amounts of data and computation. It provides a software framework for distributed storage and processing of big data using the MapReduce programming model."
+            ],
+            "title": "Basics of Big Data and Hadoop Introduction"
+        },
+        {
+            "activities": [
+                "HDFS Architecture",
+                "Video on MapReduce Example",
+                "Python MapReduce Framework",
+                "MapReduce example in Java",
+                "Problem-1",
+                "Other Resources",
+                "Assignment-1"
+
+            ],
+            "learningObjectives": [],
+            "overview": [
+                "In this assignment, you will be designing and implementing MapReduce algorithms for a variety of common data processing tasks. <br><br>The MapReduce programming model (and a corresponding system) was proposed in a 2004 paper from a team at Google as a simpler abstraction for processing very large datasets in parallel. The goal of this assignment is to give you experience “thinking in MapReduce.” We will be using small datasets that you can inspect directly to determine the correctness of your results and to internalize how MapReduce works. In the next assignment, you will have the opportunity to use a MapReduce-based system to process the very large datasets for which it was designed."
+            ],
+            "title": "Thinking in MapReduce"
+        },
+        {
+            "activities": [
+                "Assignment-1",
+                "Assignment-2",
+                "Assignment-3",
+                "Assignment-4",
+                "Assignment-5"
+
+            ],
+            "learningObjectives": [],
+            "overview": [
+                "In this assignment, you will be designing and implementing MapReduce algorithms for a variety of common data processing tasks. <br><br>The MapReduce programming model (and a corresponding system) was proposed in a 2004 paper from a team at Google as a simpler abstraction for processing very large datasets in parallel. The goal of this assignment is to give you experience “thinking in MapReduce.” We will be using small datasets that you can inspect directly to determine the correctness of your results and to internalize how MapReduce works. In the next assignment, you will have the opportunity to use a MapReduce-based system to process the very large datasets for which it was designed."
+            ],
+            "title": "Thinking in MapReduce-2"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Module-8"
+        },
+        {
+            "activities": [
+                "Activity 1",
+                "Activity 2"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "IaaS and SaaS"
         }
     ]
 }

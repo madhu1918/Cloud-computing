@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on Amazon S3 BLOB Storage",
+			"activityType":"video",
+			"videoURL":"4.2.2-amazon-s3-blob-storage.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Amazon S3 BLOB Storage"
+			}
+		
+		]
+	}
+	]

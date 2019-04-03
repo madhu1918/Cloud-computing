@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on Hadoop",
+			"activityType":"youtubevideo",
+			"videoURL":"mafw2-CVYnA"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Hadoop"
+			}
+		
+		]
+	}
+	]

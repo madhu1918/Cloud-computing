@@ -1,0 +1,13 @@
+[{
+	"title":"Activity 1",
+	"activityType":"assignment",
+	"questions":[
+		{
+		"questionType":"fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText":"Configure a cloud machine and execute few programs on that machine.(Iaas)<br>Ask your mentors to get more information on this activity.<br><br>Submit a screencast demonstrating working of your cloud machine."
+		}
+
+	]
+}]

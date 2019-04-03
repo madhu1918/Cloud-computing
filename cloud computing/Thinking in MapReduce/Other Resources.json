@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Other Resources",
+			"activityType":"youtubevideo",
+			"videoURL":"CKLzDWMsQGM"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Other Resources"
+			}
+		
+		]
+	}
+	]

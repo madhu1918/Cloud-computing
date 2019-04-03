@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on Module 4 Introduction",
+			"activityType":"video",
+			"videoURL":"module-4-introduction.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Module 4 Introduction"
+			}
+		
+		]
+	}
+	]

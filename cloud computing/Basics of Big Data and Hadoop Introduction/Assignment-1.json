@@ -1,0 +1,13 @@
+[{
+	"title":"Summarize the Module",
+	"activityType":"assignment",
+	"questions":[
+		{
+		"questionType":"fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText":"Summarize the Module(google doc link)<br><br>Write a summary of your learning from this module."
+		}
+
+	]
+}]

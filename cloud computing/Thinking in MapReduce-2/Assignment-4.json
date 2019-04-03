@@ -1,0 +1,21 @@
+[{
+	"title": "Problem-5",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Consider a set of key-value pairs where each key is sequence id and each value is a string of nucleotides, e.g., GCTTCCGAAATGCTCGAA....<br><br>Write a MapReduce query to remove the last 10 characters from each string of nucleotides, then remove any duplicates generated.<br><br><b>Map Input</b><br>Each input record is a 2 element list [sequence id, nucleotides] where sequence id is a string representing a unique identier for the sequence and nucleotides is a string representing a sequence of nucleotides<br><br><b>Reducer Output</b><br>The output from the reduce function should be the unique trimmed nucleotide strings.<br>You can test your solution to this problem using dna.json:<br><br> python unique_trims.py dna.json<br><br>You can verify your solution by comparing your result with the le unique_trims.json."
+		},
+		{
+			"text": "<a href=\"https://cloudcomputing.msitprogram.net/content/7/Problem-5.zip\">Problem-5.zip</a>"
+		}
+  ],
+	"questions":[
+		{
+		"questionType":"fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText":"Submit the solution as a git link."
+		}
+
+	]
+}]

@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on Amazon AWS Elastic File System",
+			"activityType":"video",
+			"videoURL":"4.3.3-amazon-aws-elastic-file-system.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Amazon AWS Elastic File System"
+			}
+		
+		]
+	}
+	]

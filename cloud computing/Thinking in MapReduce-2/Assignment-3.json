@@ -1,0 +1,21 @@
+[{
+	"title": "Problem-4",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "The relationship0 \"friend\" is often symmetric, meaning that if I am your friend, you are my friend. Implement a MapReduce algorithm to check whether this property holds. Generate a list of all nonsymmetric friend relationships.<br><br><b>Map Input</b>Each input record is a 2 element list [personA, personB] where personA is a string representing the name of a person and personB is a string representing the name of one of personA's friends. Note that it may or may not be the case that the personA is a friend of personB.<br><br><b>Reducer Output</b><br>The output should be all pairs (friend, person) such that (person, friend) appears in the dataset but (friend, person) does not.<br>You can test your solution to this problem using friends.json:<br>python asymmetric_friendships.py friends.json<br><br>You can verify your solution by comparing your result with the le asymmetric_friendships.json."
+		},
+		{
+			"text": "<a href=\"https://cloudcomputing.msitprogram.net/content/7/Problem-4.zip\">Problem-4.zip</a>"
+		}
+  ],
+	"questions":[
+		{
+		"questionType":"fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText":"Submit the solution as a git link."
+		}
+
+	]
+}]

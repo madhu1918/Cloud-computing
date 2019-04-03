@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on Ceph",
+			"activityType":"video",
+			"videoURL":"4.1.1ceph.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Ceph"
+			}
+		
+		]
+	}
+	]

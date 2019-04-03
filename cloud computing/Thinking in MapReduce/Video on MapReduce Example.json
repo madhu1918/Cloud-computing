@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on MapReduce Example",
+			"activityType":"youtubevideo",
+			"videoURL":"x-PCNX4prLA"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on MapReduce Example"
+			}
+		
+		]
+	}
+	]

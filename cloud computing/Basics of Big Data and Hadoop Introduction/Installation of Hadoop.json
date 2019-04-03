@@ -1,0 +1,13 @@
+[{
+	"title": "Installation of Hadoop",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://www.digitalocean.com/community/tutorials/how-to-install-hadoop-in-stand-alone-mode-on-ubuntu-18-04\">Installation of Hadoop Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Installation of Hadoop"
+	}]
+}]

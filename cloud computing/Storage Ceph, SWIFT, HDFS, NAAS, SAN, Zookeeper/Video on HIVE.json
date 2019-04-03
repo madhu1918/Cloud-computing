@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on HIVE",
+			"activityType":"video",
+			"videoURL":"4.1.2-hive.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on HIVE"
+			}
+		
+		]
+	}
+	]

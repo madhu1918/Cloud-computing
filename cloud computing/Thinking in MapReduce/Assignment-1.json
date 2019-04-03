@@ -1,0 +1,13 @@
+[{
+	"title":"Summarize the Module",
+	"activityType":"assignment",
+	"questions":[
+		{
+		"questionType":"fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText":"Submit the solution as a git link."
+		}
+
+	]
+}]

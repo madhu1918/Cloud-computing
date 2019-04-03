@@ -1,0 +1,17 @@
+[
+		{
+			"title":"Video on Amazon AWS EBS Storage",
+			"activityType":"video",
+			"videoURL":"4.3.1-amazon-aws-ebs-storage.MP4"		
+		},
+		{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on Amazon AWS EBS Storage"
+			}
+		
+		]
+	}
+	]

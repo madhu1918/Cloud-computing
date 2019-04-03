@@ -1,0 +1,21 @@
+[{
+	"title": "Problem-2",
+	"activityType": "assignment",
+	"quizDescription": [
+		{
+			"text": "Implement a relational join as a MapReduce query<br><br>Consider the following query:<br><br>SELECT *<br>FROM Orders, LineItem<br>WHERE Order.order_id = LineItem.order_id<br><br>Your MapReduce query should produce the same result as this SQL query executed against an appropriate database.<br>You can consider the two input tables, Order and LineItem, as one big concatenated bag of records that will be processed by the map function record by record.<br><br><b>Map Input</b><br>Each input record is a list of strings representing a tuple in the database. Each list element corresponds to a different attribute of the table<br>The first item (index 0) in each record is a string that identies the table the record originates from.<br>This field has two possible values:<ul><li>\"line_item\" indicates that the record is a line item.</li><li>\"order\" indicates that the record is an order.</li></ul>The second element (index 1) in each record is the order_id.<br>LineItem records have 17 attributes including the identier string.<br>Order records have 10 elements including the identier string.<br><br><b>Reduce Output</b><br><br>The output should be a joined record: a single list of length 27 that contains the attributes from the order record followed by the fields from the line item record. Each list element should be a string.<br>You can test your solution to this problem using records.json:<br>python join.py records.json<br><br>You can can compare your solution with join.json."
+		},
+		{
+			"text": "<a href=\"https://cloudcomputing.msitprogram.net/content/7/Problem-2.zip\">Problem-2.zip</a>"
+		}
+  ],
+	"questions":[
+		{
+		"questionType":"fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText":"Submit the solution as a git link."
+		}
+
+	]
+}]

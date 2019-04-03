@@ -1,0 +1,19 @@
+[{
+	"title": "Problem-6",
+	"activityType": "assignment",
+	"quizDescription": [{
+			"text": "Assume you have two matrices A and B in a sparse matrix format, where each record is of the form i, j, value. Design a MapReduce algorithm to compute the matrix multiplication A x B<br><br><b>Map Input</b><br>The input to the map function will be a row of a matrix represented as a list. Each list will be of the form [matrix, i, j, value] where matrix is a string and i, j, and value are integers. <br>The first item, matrix, is a string that identies which matrix the record originates from. This field has two possible values: \"a \" indicates that the record is from matrix A and \"b\" indicates that the record is from matrix B.<br><br><b>Reducer Output</b><br>The output from the reduce function will also be a row of the result matrix represented as a tuple. Each tuple will be of the form (i, j, value) where each element is an integer.<br>You can test your solution to this problem using matrix.json:<br>python multiply.py matrix.json<br><br>You can verify your solution by comparing your result with the le multiply.json."
+		},
+		{
+			"text": "<a href=\"https://cloudcomputing.msitprogram.net/content/7/Problem-6.zip\">Problem-6.zip</a>"
+		}
+	],
+	"questions": [{
+			"questionType": "fillintheblank",
+			"max_marks": 10,
+			"graded": true,
+			"questionText": "Submit the solution as a git link."
+		}
+
+	]
+}]
