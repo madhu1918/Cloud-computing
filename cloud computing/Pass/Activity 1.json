@@ -1,0 +1,12 @@
+[{
+	"title":"Activity 1",
+	"activityType":"assignment",
+	"questions":[
+		{
+		"questionType":"fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText":"Paas helps to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app<br><br>Choose any platform to deploy a web application.Example: Shopping cart application on heroku/google app engine/any other platform.Ask your mentors to get more information on this activity.<br><br>Submit a screencast of demonstrating platform as a service."
+		}
+	]
+}]

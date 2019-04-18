@@ -161,6 +161,14 @@
             "learningObjectives": [],
             "overview": [],
             "title": "IaaS and SaaS"
+        },
+        {
+            "activities": [
+                "Activity 1"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Pass"
         }
     ]
 }
